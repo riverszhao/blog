@@ -3,7 +3,7 @@ layout: default
 title: 交易小结
 ---
 
-# {{ post.title }}
+# {{ page.title }}
 - 赚钱的基本哲学
 - 概率
 - 方法
